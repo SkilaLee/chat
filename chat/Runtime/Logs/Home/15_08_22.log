@@ -1,0 +1,60 @@
+[ 2015-08-22T21:15:38+08:00 ] 127.0.0.1 /test/chat/chat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009000s ]
+
+[ 2015-08-22T21:15:38+08:00 ] 127.0.0.1 /test/chat/chat/index.php/Home/Login/unlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-22T21:15:40+08:00 ] 127.0.0.1 /test/chat/chat/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-22T21:15:48+08:00 ] 127.0.0.1 /test/chat/chat/index.php/Home/Login/doLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-08-22T21:15:48+08:00 ] 127.0.0.1 /test/chat/chat/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-08-22T21:15:49+08:00 ] 127.0.0.1 /test/chat/chat/index.php/Home/User/fresh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-22T21:15:49+08:00 ] 127.0.0.1 /test/chat/chat/index.php/Home/User/refresh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-08-22T21:17:28+08:00 ] 127.0.0.1 /test/chat/chat/index.php/Home/User/chat
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-08-22T23:19:42+08:00 ] 127.0.0.1 /test/chat/chat/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-08-22T23:19:43+08:00 ] 127.0.0.1 /test/chat/chat/index.php/Home/User/refresh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-22T23:19:43+08:00 ] 127.0.0.1 /test/chat/chat/index.php/Home/User/fresh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-08-22T23:19:48+08:00 ] 127.0.0.1 /test/chat/chat/index.php/Home/User/chat
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+

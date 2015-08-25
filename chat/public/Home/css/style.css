@@ -1,0 +1,86 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+a {
+	text-decoration:none;
+}
+#online {
+	width: 150px;
+	height: 525px;
+	margin-left: 100px; 
+	margin-top: 60px;
+	border:1px solid #A9A9A9;
+	float: left;
+}
+#online p {
+	margin-right: 10px;
+	margin-left: 10px;
+	overflow: hidden;
+}
+#max {
+	width: 608px;
+	height: 525px;
+	margin-top: 60px;
+	float: left;
+	
+}	
+
+#content {
+	width: 349px;
+	height: 343px;
+	border-top: 1px solid #A9A9A9;
+	border-bottom: 1px solid #A9A9A9;
+	border-right: 1px solid #A9A9A9;
+	padding-left: 10px;
+	float: left;
+	
+}
+#content_true {
+	overflow: auto;
+	width: 334px;
+	height: 315px;
+	padding-left: 10px;
+	float: left;
+}
+#input {
+	width: 359px;
+	height: 182px;
+	float: left;
+	border-right: 1px solid #A9A9A9;
+	border-bottom: 1px solid #A9A9A9;
+}
+textarea {
+	width: 331px;
+	height: 113px;
+	float: left;
+	margin-left: 10px;
+}
+#record {
+	width: 247px;
+	height: 526px;
+	border-top: 1px solid #A9A9A9;
+	border-right: 1px solid #A9A9A9;
+	border-bottom: 1px solid #A9A9A9;
+	float: right;
+	display: none;
+}
+#close {
+	float: right;
+	cursor:pointer;
+}
+#delete {
+	cursor:pointer;
+}
+#record_content {
+	width: 238px;
+	height: 508px;
+	margin-left: 10px;
+	overflow: auto;
+}
+button {
+	float: right;
+	margin: 5px 0px;
+	margin-right: 5px;
+	cursor:pointer;
+}

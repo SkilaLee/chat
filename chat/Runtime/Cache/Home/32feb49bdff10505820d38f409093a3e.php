@@ -1,0 +1,38 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>简易聊天室</title>
+	<link rel="stylesheet" href="<?php echo (CSS_URL); ?>/style.css">
+	<script type="text/javascript" src="<?php echo (JS_URL); ?>/refresh.js"></script>
+	<script>
+
+	</script>
+</head>
+<body  onunload="window.open('<?php echo (VIEW); ?>/login/outlogin');">  <!-- bug:关闭网页并不能实现登出的功能 -->
+	<div id="online">
+	</div>
+	<div id="max">
+		<div id="content">
+			<a href="<?php echo (VIEW); ?>/login/outlogin" style="float:right;">退出</a>
+			<div id="content_true">
+				
+			</div>
+		</div>
+		<div id="record">
+			<span id="close" onclick="return click_a('record')">&times;</span>
+			<div id="record_content">
+				
+			</div>
+		</div>
+		<div id="input">
+			<button type="button"  onclick="return click_a('record')" >聊天记录</button>
+			<form action="">
+				<textarea id="input1" contentEditable="true"></textarea>
+				<button type="button" id="send">发送</button>
+			</form>
+		</div>
+	</div>
+</body>
+<script type="text/javascript" src="<?php echo (JS_URL); ?>/chat.js"></script>
+</html>
